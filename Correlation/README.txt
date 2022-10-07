@@ -1,1 +1,0 @@
-Python simple correlation project.
